@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Python environments
+venv/
+.venv/
+env/
+
+# Package build files
+*.egg-info/
+build/
+dist/
+
+# ML models
+*.pt
+*.pth
+
+# Dataset
+data/
+notebook/data/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
