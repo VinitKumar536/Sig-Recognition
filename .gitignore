@@ -33,3 +33,4 @@ notebook/data/
 # OS
 .DS_Store
 Thumbs.db
+notebook/data/
